@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
 export default function Home(): React.ReactElement {
-  const message = 'Hello World';
+  const message = "Hello World";
   return <h1>{message}</h1>;
 }
